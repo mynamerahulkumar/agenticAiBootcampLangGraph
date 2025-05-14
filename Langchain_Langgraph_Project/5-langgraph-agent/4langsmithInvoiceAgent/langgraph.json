@@ -1,0 +1,8 @@
+{
+    "dependencies":["."],
+    "graphs":{
+        "invoiceAgent_openai":"./invoiceAgent_openai.py:agent"
+    },
+    "env":"../../env"
+
+}
